@@ -1,4 +1,4 @@
-Gym Management System (Java Console Application)
+# Gym Management System (Java Console Application)
 
 This project is a complete console-based management system for a small gym.
 It was developed with the goal of practicing arrays, loops, conditional structures, menus, CRUD-like operations, and IMC (BMI) classification logic.
