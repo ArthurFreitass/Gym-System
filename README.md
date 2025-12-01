@@ -129,12 +129,12 @@ Install Java (JDK 8+ recommended)
 
 Clone the repository:
 
-git clone https://github.com/your-username/GymManagement.git
+git clone https://github.com/ArthurFreitass/Gym-System.git
 
 
 Navigate to the project folder:
 
-cd GymManagement/src
+cd Gym-System/src
 
 
 Compile:
